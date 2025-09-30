@@ -1,0 +1,3419 @@
+[
+  {
+    "id": 1,
+    "name": "Pokemon1",
+    "description": "This is Pokemon number 1, known for its unique abilities.",
+    "characteristics": {
+      "height": "2 ft",
+      "weight": "2 lbs",
+      "base_experience": 51,
+      "abilities": [
+        "Ability2",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type2"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pokemon2",
+    "description": "This is Pokemon number 2, known for its unique abilities.",
+    "characteristics": {
+      "height": "3 ft",
+      "weight": "4 lbs",
+      "base_experience": 52,
+      "abilities": [
+        "Ability3",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type3"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Pokemon3",
+    "description": "This is Pokemon number 3, known for its unique abilities.",
+    "characteristics": {
+      "height": "4 ft",
+      "weight": "6 lbs",
+      "base_experience": 53,
+      "abilities": [
+        "Ability4",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type4"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Pokemon4",
+    "description": "This is Pokemon number 4, known for its unique abilities.",
+    "characteristics": {
+      "height": "5 ft",
+      "weight": "8 lbs",
+      "base_experience": 54,
+      "abilities": [
+        "Ability5",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type5"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Pokemon5",
+    "description": "This is Pokemon number 5, known for its unique abilities.",
+    "characteristics": {
+      "height": "6 ft",
+      "weight": "10 lbs",
+      "base_experience": 55,
+      "abilities": [
+        "Ability1",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type6"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Pokemon6",
+    "description": "This is Pokemon number 6, known for its unique abilities.",
+    "characteristics": {
+      "height": "7 ft",
+      "weight": "12 lbs",
+      "base_experience": 56,
+      "abilities": [
+        "Ability2",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type7"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Pokemon7",
+    "description": "This is Pokemon number 7, known for its unique abilities.",
+    "characteristics": {
+      "height": "8 ft",
+      "weight": "14 lbs",
+      "base_experience": 57,
+      "abilities": [
+        "Ability3",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type8"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Pokemon8",
+    "description": "This is Pokemon number 8, known for its unique abilities.",
+    "characteristics": {
+      "height": "9 ft",
+      "weight": "16 lbs",
+      "base_experience": 58,
+      "abilities": [
+        "Ability4",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type9"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Pokemon9",
+    "description": "This is Pokemon number 9, known for its unique abilities.",
+    "characteristics": {
+      "height": "10 ft",
+      "weight": "18 lbs",
+      "base_experience": 59,
+      "abilities": [
+        "Ability5",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type10"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Pokemon10",
+    "description": "This is Pokemon number 10, known for its unique abilities.",
+    "characteristics": {
+      "height": "11 ft",
+      "weight": "20 lbs",
+      "base_experience": 60,
+      "abilities": [
+        "Ability1",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type1"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Pokemon11",
+    "description": "This is Pokemon number 11, known for its unique abilities.",
+    "characteristics": {
+      "height": "12 ft",
+      "weight": "22 lbs",
+      "base_experience": 61,
+      "abilities": [
+        "Ability2",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type2"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Pokemon12",
+    "description": "This is Pokemon number 12, known for its unique abilities.",
+    "characteristics": {
+      "height": "13 ft",
+      "weight": "24 lbs",
+      "base_experience": 62,
+      "abilities": [
+        "Ability3",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type3"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Pokemon13",
+    "description": "This is Pokemon number 13, known for its unique abilities.",
+    "characteristics": {
+      "height": "14 ft",
+      "weight": "26 lbs",
+      "base_experience": 63,
+      "abilities": [
+        "Ability4",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type4"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Pokemon14",
+    "description": "This is Pokemon number 14, known for its unique abilities.",
+    "characteristics": {
+      "height": "15 ft",
+      "weight": "28 lbs",
+      "base_experience": 64,
+      "abilities": [
+        "Ability5",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type5"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Pokemon15",
+    "description": "This is Pokemon number 15, known for its unique abilities.",
+    "characteristics": {
+      "height": "16 ft",
+      "weight": "30 lbs",
+      "base_experience": 65,
+      "abilities": [
+        "Ability1",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type6"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Pokemon16",
+    "description": "This is Pokemon number 16, known for its unique abilities.",
+    "characteristics": {
+      "height": "17 ft",
+      "weight": "32 lbs",
+      "base_experience": 66,
+      "abilities": [
+        "Ability2",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type7"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Pokemon17",
+    "description": "This is Pokemon number 17, known for its unique abilities.",
+    "characteristics": {
+      "height": "18 ft",
+      "weight": "34 lbs",
+      "base_experience": 67,
+      "abilities": [
+        "Ability3",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type8"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Pokemon18",
+    "description": "This is Pokemon number 18, known for its unique abilities.",
+    "characteristics": {
+      "height": "19 ft",
+      "weight": "36 lbs",
+      "base_experience": 68,
+      "abilities": [
+        "Ability4",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type9"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Pokemon19",
+    "description": "This is Pokemon number 19, known for its unique abilities.",
+    "characteristics": {
+      "height": "20 ft",
+      "weight": "38 lbs",
+      "base_experience": 69,
+      "abilities": [
+        "Ability5",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type10"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Pokemon20",
+    "description": "This is Pokemon number 20, known for its unique abilities.",
+    "characteristics": {
+      "height": "1 ft",
+      "weight": "40 lbs",
+      "base_experience": 70,
+      "abilities": [
+        "Ability1",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type1"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Pokemon21",
+    "description": "This is Pokemon number 21, known for its unique abilities.",
+    "characteristics": {
+      "height": "2 ft",
+      "weight": "42 lbs",
+      "base_experience": 71,
+      "abilities": [
+        "Ability2",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type2"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Pokemon22",
+    "description": "This is Pokemon number 22, known for its unique abilities.",
+    "characteristics": {
+      "height": "3 ft",
+      "weight": "44 lbs",
+      "base_experience": 72,
+      "abilities": [
+        "Ability3",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type3"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Pokemon23",
+    "description": "This is Pokemon number 23, known for its unique abilities.",
+    "characteristics": {
+      "height": "4 ft",
+      "weight": "46 lbs",
+      "base_experience": 73,
+      "abilities": [
+        "Ability4",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type4"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Pokemon24",
+    "description": "This is Pokemon number 24, known for its unique abilities.",
+    "characteristics": {
+      "height": "5 ft",
+      "weight": "48 lbs",
+      "base_experience": 74,
+      "abilities": [
+        "Ability5",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type5"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Pokemon25",
+    "description": "This is Pokemon number 25, known for its unique abilities.",
+    "characteristics": {
+      "height": "6 ft",
+      "weight": "50 lbs",
+      "base_experience": 75,
+      "abilities": [
+        "Ability1",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type6"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Pokemon26",
+    "description": "This is Pokemon number 26, known for its unique abilities.",
+    "characteristics": {
+      "height": "7 ft",
+      "weight": "52 lbs",
+      "base_experience": 76,
+      "abilities": [
+        "Ability2",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type7"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Pokemon27",
+    "description": "This is Pokemon number 27, known for its unique abilities.",
+    "characteristics": {
+      "height": "8 ft",
+      "weight": "54 lbs",
+      "base_experience": 77,
+      "abilities": [
+        "Ability3",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type8"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Pokemon28",
+    "description": "This is Pokemon number 28, known for its unique abilities.",
+    "characteristics": {
+      "height": "9 ft",
+      "weight": "56 lbs",
+      "base_experience": 78,
+      "abilities": [
+        "Ability4",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type9"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Pokemon29",
+    "description": "This is Pokemon number 29, known for its unique abilities.",
+    "characteristics": {
+      "height": "10 ft",
+      "weight": "58 lbs",
+      "base_experience": 79,
+      "abilities": [
+        "Ability5",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type10"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Pokemon30",
+    "description": "This is Pokemon number 30, known for its unique abilities.",
+    "characteristics": {
+      "height": "11 ft",
+      "weight": "60 lbs",
+      "base_experience": 80,
+      "abilities": [
+        "Ability1",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type1"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Pokemon31",
+    "description": "This is Pokemon number 31, known for its unique abilities.",
+    "characteristics": {
+      "height": "12 ft",
+      "weight": "62 lbs",
+      "base_experience": 81,
+      "abilities": [
+        "Ability2",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type2"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Pokemon32",
+    "description": "This is Pokemon number 32, known for its unique abilities.",
+    "characteristics": {
+      "height": "13 ft",
+      "weight": "64 lbs",
+      "base_experience": 82,
+      "abilities": [
+        "Ability3",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type3"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Pokemon33",
+    "description": "This is Pokemon number 33, known for its unique abilities.",
+    "characteristics": {
+      "height": "14 ft",
+      "weight": "66 lbs",
+      "base_experience": 83,
+      "abilities": [
+        "Ability4",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type4"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Pokemon34",
+    "description": "This is Pokemon number 34, known for its unique abilities.",
+    "characteristics": {
+      "height": "15 ft",
+      "weight": "68 lbs",
+      "base_experience": 84,
+      "abilities": [
+        "Ability5",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type5"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Pokemon35",
+    "description": "This is Pokemon number 35, known for its unique abilities.",
+    "characteristics": {
+      "height": "16 ft",
+      "weight": "70 lbs",
+      "base_experience": 85,
+      "abilities": [
+        "Ability1",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type6"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Pokemon36",
+    "description": "This is Pokemon number 36, known for its unique abilities.",
+    "characteristics": {
+      "height": "17 ft",
+      "weight": "72 lbs",
+      "base_experience": 86,
+      "abilities": [
+        "Ability2",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type7"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Pokemon37",
+    "description": "This is Pokemon number 37, known for its unique abilities.",
+    "characteristics": {
+      "height": "18 ft",
+      "weight": "74 lbs",
+      "base_experience": 87,
+      "abilities": [
+        "Ability3",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type8"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Pokemon38",
+    "description": "This is Pokemon number 38, known for its unique abilities.",
+    "characteristics": {
+      "height": "19 ft",
+      "weight": "76 lbs",
+      "base_experience": 88,
+      "abilities": [
+        "Ability4",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type9"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Pokemon39",
+    "description": "This is Pokemon number 39, known for its unique abilities.",
+    "characteristics": {
+      "height": "20 ft",
+      "weight": "78 lbs",
+      "base_experience": 89,
+      "abilities": [
+        "Ability5",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type10"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Pokemon40",
+    "description": "This is Pokemon number 40, known for its unique abilities.",
+    "characteristics": {
+      "height": "1 ft",
+      "weight": "80 lbs",
+      "base_experience": 90,
+      "abilities": [
+        "Ability1",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type1"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Pokemon41",
+    "description": "This is Pokemon number 41, known for its unique abilities.",
+    "characteristics": {
+      "height": "2 ft",
+      "weight": "82 lbs",
+      "base_experience": 91,
+      "abilities": [
+        "Ability2",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type2"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Pokemon42",
+    "description": "This is Pokemon number 42, known for its unique abilities.",
+    "characteristics": {
+      "height": "3 ft",
+      "weight": "84 lbs",
+      "base_experience": 92,
+      "abilities": [
+        "Ability3",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type3"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Pokemon43",
+    "description": "This is Pokemon number 43, known for its unique abilities.",
+    "characteristics": {
+      "height": "4 ft",
+      "weight": "86 lbs",
+      "base_experience": 93,
+      "abilities": [
+        "Ability4",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type4"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Pokemon44",
+    "description": "This is Pokemon number 44, known for its unique abilities.",
+    "characteristics": {
+      "height": "5 ft",
+      "weight": "88 lbs",
+      "base_experience": 94,
+      "abilities": [
+        "Ability5",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type5"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Pokemon45",
+    "description": "This is Pokemon number 45, known for its unique abilities.",
+    "characteristics": {
+      "height": "6 ft",
+      "weight": "90 lbs",
+      "base_experience": 95,
+      "abilities": [
+        "Ability1",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type6"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Pokemon46",
+    "description": "This is Pokemon number 46, known for its unique abilities.",
+    "characteristics": {
+      "height": "7 ft",
+      "weight": "92 lbs",
+      "base_experience": 96,
+      "abilities": [
+        "Ability2",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type7"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Pokemon47",
+    "description": "This is Pokemon number 47, known for its unique abilities.",
+    "characteristics": {
+      "height": "8 ft",
+      "weight": "94 lbs",
+      "base_experience": 97,
+      "abilities": [
+        "Ability3",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type8"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Pokemon48",
+    "description": "This is Pokemon number 48, known for its unique abilities.",
+    "characteristics": {
+      "height": "9 ft",
+      "weight": "96 lbs",
+      "base_experience": 98,
+      "abilities": [
+        "Ability4",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type9"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Pokemon49",
+    "description": "This is Pokemon number 49, known for its unique abilities.",
+    "characteristics": {
+      "height": "10 ft",
+      "weight": "98 lbs",
+      "base_experience": 99,
+      "abilities": [
+        "Ability5",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type10"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Pokemon50",
+    "description": "This is Pokemon number 50, known for its unique abilities.",
+    "characteristics": {
+      "height": "11 ft",
+      "weight": "100 lbs",
+      "base_experience": 100,
+      "abilities": [
+        "Ability1",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type1"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Pokemon51",
+    "description": "This is Pokemon number 51, known for its unique abilities.",
+    "characteristics": {
+      "height": "12 ft",
+      "weight": "102 lbs",
+      "base_experience": 101,
+      "abilities": [
+        "Ability2",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type2"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Pokemon52",
+    "description": "This is Pokemon number 52, known for its unique abilities.",
+    "characteristics": {
+      "height": "13 ft",
+      "weight": "104 lbs",
+      "base_experience": 102,
+      "abilities": [
+        "Ability3",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type3"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Pokemon53",
+    "description": "This is Pokemon number 53, known for its unique abilities.",
+    "characteristics": {
+      "height": "14 ft",
+      "weight": "106 lbs",
+      "base_experience": 103,
+      "abilities": [
+        "Ability4",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type4"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Pokemon54",
+    "description": "This is Pokemon number 54, known for its unique abilities.",
+    "characteristics": {
+      "height": "15 ft",
+      "weight": "108 lbs",
+      "base_experience": 104,
+      "abilities": [
+        "Ability5",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type5"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Pokemon55",
+    "description": "This is Pokemon number 55, known for its unique abilities.",
+    "characteristics": {
+      "height": "16 ft",
+      "weight": "110 lbs",
+      "base_experience": 105,
+      "abilities": [
+        "Ability1",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type6"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Pokemon56",
+    "description": "This is Pokemon number 56, known for its unique abilities.",
+    "characteristics": {
+      "height": "17 ft",
+      "weight": "112 lbs",
+      "base_experience": 106,
+      "abilities": [
+        "Ability2",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type7"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Pokemon57",
+    "description": "This is Pokemon number 57, known for its unique abilities.",
+    "characteristics": {
+      "height": "18 ft",
+      "weight": "114 lbs",
+      "base_experience": 107,
+      "abilities": [
+        "Ability3",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type8"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Pokemon58",
+    "description": "This is Pokemon number 58, known for its unique abilities.",
+    "characteristics": {
+      "height": "19 ft",
+      "weight": "116 lbs",
+      "base_experience": 108,
+      "abilities": [
+        "Ability4",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type9"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Pokemon59",
+    "description": "This is Pokemon number 59, known for its unique abilities.",
+    "characteristics": {
+      "height": "20 ft",
+      "weight": "118 lbs",
+      "base_experience": 109,
+      "abilities": [
+        "Ability5",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type10"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Pokemon60",
+    "description": "This is Pokemon number 60, known for its unique abilities.",
+    "characteristics": {
+      "height": "1 ft",
+      "weight": "120 lbs",
+      "base_experience": 110,
+      "abilities": [
+        "Ability1",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type1"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Pokemon61",
+    "description": "This is Pokemon number 61, known for its unique abilities.",
+    "characteristics": {
+      "height": "2 ft",
+      "weight": "122 lbs",
+      "base_experience": 111,
+      "abilities": [
+        "Ability2",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type2"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Pokemon62",
+    "description": "This is Pokemon number 62, known for its unique abilities.",
+    "characteristics": {
+      "height": "3 ft",
+      "weight": "124 lbs",
+      "base_experience": 112,
+      "abilities": [
+        "Ability3",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type3"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Pokemon63",
+    "description": "This is Pokemon number 63, known for its unique abilities.",
+    "characteristics": {
+      "height": "4 ft",
+      "weight": "126 lbs",
+      "base_experience": 113,
+      "abilities": [
+        "Ability4",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type4"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Pokemon64",
+    "description": "This is Pokemon number 64, known for its unique abilities.",
+    "characteristics": {
+      "height": "5 ft",
+      "weight": "128 lbs",
+      "base_experience": 114,
+      "abilities": [
+        "Ability5",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type5"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Pokemon65",
+    "description": "This is Pokemon number 65, known for its unique abilities.",
+    "characteristics": {
+      "height": "6 ft",
+      "weight": "130 lbs",
+      "base_experience": 115,
+      "abilities": [
+        "Ability1",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type6"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Pokemon66",
+    "description": "This is Pokemon number 66, known for its unique abilities.",
+    "characteristics": {
+      "height": "7 ft",
+      "weight": "132 lbs",
+      "base_experience": 116,
+      "abilities": [
+        "Ability2",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type7"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Pokemon67",
+    "description": "This is Pokemon number 67, known for its unique abilities.",
+    "characteristics": {
+      "height": "8 ft",
+      "weight": "134 lbs",
+      "base_experience": 117,
+      "abilities": [
+        "Ability3",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type8"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Pokemon68",
+    "description": "This is Pokemon number 68, known for its unique abilities.",
+    "characteristics": {
+      "height": "9 ft",
+      "weight": "136 lbs",
+      "base_experience": 118,
+      "abilities": [
+        "Ability4",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type9"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Pokemon69",
+    "description": "This is Pokemon number 69, known for its unique abilities.",
+    "characteristics": {
+      "height": "10 ft",
+      "weight": "138 lbs",
+      "base_experience": 119,
+      "abilities": [
+        "Ability5",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type10"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Pokemon70",
+    "description": "This is Pokemon number 70, known for its unique abilities.",
+    "characteristics": {
+      "height": "11 ft",
+      "weight": "140 lbs",
+      "base_experience": 120,
+      "abilities": [
+        "Ability1",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type1"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Pokemon71",
+    "description": "This is Pokemon number 71, known for its unique abilities.",
+    "characteristics": {
+      "height": "12 ft",
+      "weight": "142 lbs",
+      "base_experience": 121,
+      "abilities": [
+        "Ability2",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type2"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Pokemon72",
+    "description": "This is Pokemon number 72, known for its unique abilities.",
+    "characteristics": {
+      "height": "13 ft",
+      "weight": "144 lbs",
+      "base_experience": 122,
+      "abilities": [
+        "Ability3",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type3"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Pokemon73",
+    "description": "This is Pokemon number 73, known for its unique abilities.",
+    "characteristics": {
+      "height": "14 ft",
+      "weight": "146 lbs",
+      "base_experience": 123,
+      "abilities": [
+        "Ability4",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type4"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Pokemon74",
+    "description": "This is Pokemon number 74, known for its unique abilities.",
+    "characteristics": {
+      "height": "15 ft",
+      "weight": "148 lbs",
+      "base_experience": 124,
+      "abilities": [
+        "Ability5",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type5"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Pokemon75",
+    "description": "This is Pokemon number 75, known for its unique abilities.",
+    "characteristics": {
+      "height": "16 ft",
+      "weight": "150 lbs",
+      "base_experience": 125,
+      "abilities": [
+        "Ability1",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type6"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Pokemon76",
+    "description": "This is Pokemon number 76, known for its unique abilities.",
+    "characteristics": {
+      "height": "17 ft",
+      "weight": "152 lbs",
+      "base_experience": 126,
+      "abilities": [
+        "Ability2",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type7"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Pokemon77",
+    "description": "This is Pokemon number 77, known for its unique abilities.",
+    "characteristics": {
+      "height": "18 ft",
+      "weight": "154 lbs",
+      "base_experience": 127,
+      "abilities": [
+        "Ability3",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type8"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Pokemon78",
+    "description": "This is Pokemon number 78, known for its unique abilities.",
+    "characteristics": {
+      "height": "19 ft",
+      "weight": "156 lbs",
+      "base_experience": 128,
+      "abilities": [
+        "Ability4",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type9"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Pokemon79",
+    "description": "This is Pokemon number 79, known for its unique abilities.",
+    "characteristics": {
+      "height": "20 ft",
+      "weight": "158 lbs",
+      "base_experience": 129,
+      "abilities": [
+        "Ability5",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type10"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Pokemon80",
+    "description": "This is Pokemon number 80, known for its unique abilities.",
+    "characteristics": {
+      "height": "1 ft",
+      "weight": "160 lbs",
+      "base_experience": 130,
+      "abilities": [
+        "Ability1",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type1"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Pokemon81",
+    "description": "This is Pokemon number 81, known for its unique abilities.",
+    "characteristics": {
+      "height": "2 ft",
+      "weight": "162 lbs",
+      "base_experience": 131,
+      "abilities": [
+        "Ability2",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type2"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Pokemon82",
+    "description": "This is Pokemon number 82, known for its unique abilities.",
+    "characteristics": {
+      "height": "3 ft",
+      "weight": "164 lbs",
+      "base_experience": 132,
+      "abilities": [
+        "Ability3",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type3"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Pokemon83",
+    "description": "This is Pokemon number 83, known for its unique abilities.",
+    "characteristics": {
+      "height": "4 ft",
+      "weight": "166 lbs",
+      "base_experience": 133,
+      "abilities": [
+        "Ability4",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type4"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Pokemon84",
+    "description": "This is Pokemon number 84, known for its unique abilities.",
+    "characteristics": {
+      "height": "5 ft",
+      "weight": "168 lbs",
+      "base_experience": 134,
+      "abilities": [
+        "Ability5",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type5"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Pokemon85",
+    "description": "This is Pokemon number 85, known for its unique abilities.",
+    "characteristics": {
+      "height": "6 ft",
+      "weight": "170 lbs",
+      "base_experience": 135,
+      "abilities": [
+        "Ability1",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type6"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Pokemon86",
+    "description": "This is Pokemon number 86, known for its unique abilities.",
+    "characteristics": {
+      "height": "7 ft",
+      "weight": "172 lbs",
+      "base_experience": 136,
+      "abilities": [
+        "Ability2",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type7"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Pokemon87",
+    "description": "This is Pokemon number 87, known for its unique abilities.",
+    "characteristics": {
+      "height": "8 ft",
+      "weight": "174 lbs",
+      "base_experience": 137,
+      "abilities": [
+        "Ability3",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type8"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Pokemon88",
+    "description": "This is Pokemon number 88, known for its unique abilities.",
+    "characteristics": {
+      "height": "9 ft",
+      "weight": "176 lbs",
+      "base_experience": 138,
+      "abilities": [
+        "Ability4",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type9"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Pokemon89",
+    "description": "This is Pokemon number 89, known for its unique abilities.",
+    "characteristics": {
+      "height": "10 ft",
+      "weight": "178 lbs",
+      "base_experience": 139,
+      "abilities": [
+        "Ability5",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type10"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Pokemon90",
+    "description": "This is Pokemon number 90, known for its unique abilities.",
+    "characteristics": {
+      "height": "11 ft",
+      "weight": "180 lbs",
+      "base_experience": 140,
+      "abilities": [
+        "Ability1",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type1"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Pokemon91",
+    "description": "This is Pokemon number 91, known for its unique abilities.",
+    "characteristics": {
+      "height": "12 ft",
+      "weight": "182 lbs",
+      "base_experience": 141,
+      "abilities": [
+        "Ability2",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type2"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Pokemon92",
+    "description": "This is Pokemon number 92, known for its unique abilities.",
+    "characteristics": {
+      "height": "13 ft",
+      "weight": "184 lbs",
+      "base_experience": 142,
+      "abilities": [
+        "Ability3",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type3"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Pokemon93",
+    "description": "This is Pokemon number 93, known for its unique abilities.",
+    "characteristics": {
+      "height": "14 ft",
+      "weight": "186 lbs",
+      "base_experience": 143,
+      "abilities": [
+        "Ability4",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type4"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Pokemon94",
+    "description": "This is Pokemon number 94, known for its unique abilities.",
+    "characteristics": {
+      "height": "15 ft",
+      "weight": "188 lbs",
+      "base_experience": 144,
+      "abilities": [
+        "Ability5",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type5"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Pokemon95",
+    "description": "This is Pokemon number 95, known for its unique abilities.",
+    "characteristics": {
+      "height": "16 ft",
+      "weight": "190 lbs",
+      "base_experience": 145,
+      "abilities": [
+        "Ability1",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type6"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Pokemon96",
+    "description": "This is Pokemon number 96, known for its unique abilities.",
+    "characteristics": {
+      "height": "17 ft",
+      "weight": "192 lbs",
+      "base_experience": 146,
+      "abilities": [
+        "Ability2",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type7"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Pokemon97",
+    "description": "This is Pokemon number 97, known for its unique abilities.",
+    "characteristics": {
+      "height": "18 ft",
+      "weight": "194 lbs",
+      "base_experience": 147,
+      "abilities": [
+        "Ability3",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type8"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Pokemon98",
+    "description": "This is Pokemon number 98, known for its unique abilities.",
+    "characteristics": {
+      "height": "19 ft",
+      "weight": "196 lbs",
+      "base_experience": 148,
+      "abilities": [
+        "Ability4",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type9"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Pokemon99",
+    "description": "This is Pokemon number 99, known for its unique abilities.",
+    "characteristics": {
+      "height": "20 ft",
+      "weight": "198 lbs",
+      "base_experience": 149,
+      "abilities": [
+        "Ability5",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type10"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Pokemon100",
+    "description": "This is Pokemon number 100, known for its unique abilities.",
+    "characteristics": {
+      "height": "1 ft",
+      "weight": "200 lbs",
+      "base_experience": 150,
+      "abilities": [
+        "Ability1",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type1"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Pokemon101",
+    "description": "This is Pokemon number 101, known for its unique abilities.",
+    "characteristics": {
+      "height": "2 ft",
+      "weight": "202 lbs",
+      "base_experience": 151,
+      "abilities": [
+        "Ability2",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type2"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Pokemon102",
+    "description": "This is Pokemon number 102, known for its unique abilities.",
+    "characteristics": {
+      "height": "3 ft",
+      "weight": "204 lbs",
+      "base_experience": 152,
+      "abilities": [
+        "Ability3",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type3"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Pokemon103",
+    "description": "This is Pokemon number 103, known for its unique abilities.",
+    "characteristics": {
+      "height": "4 ft",
+      "weight": "206 lbs",
+      "base_experience": 153,
+      "abilities": [
+        "Ability4",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type4"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Pokemon104",
+    "description": "This is Pokemon number 104, known for its unique abilities.",
+    "characteristics": {
+      "height": "5 ft",
+      "weight": "208 lbs",
+      "base_experience": 154,
+      "abilities": [
+        "Ability5",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type5"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Pokemon105",
+    "description": "This is Pokemon number 105, known for its unique abilities.",
+    "characteristics": {
+      "height": "6 ft",
+      "weight": "210 lbs",
+      "base_experience": 155,
+      "abilities": [
+        "Ability1",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type6"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Pokemon106",
+    "description": "This is Pokemon number 106, known for its unique abilities.",
+    "characteristics": {
+      "height": "7 ft",
+      "weight": "212 lbs",
+      "base_experience": 156,
+      "abilities": [
+        "Ability2",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type7"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Pokemon107",
+    "description": "This is Pokemon number 107, known for its unique abilities.",
+    "characteristics": {
+      "height": "8 ft",
+      "weight": "214 lbs",
+      "base_experience": 157,
+      "abilities": [
+        "Ability3",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type8"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Pokemon108",
+    "description": "This is Pokemon number 108, known for its unique abilities.",
+    "characteristics": {
+      "height": "9 ft",
+      "weight": "216 lbs",
+      "base_experience": 158,
+      "abilities": [
+        "Ability4",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type9"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Pokemon109",
+    "description": "This is Pokemon number 109, known for its unique abilities.",
+    "characteristics": {
+      "height": "10 ft",
+      "weight": "218 lbs",
+      "base_experience": 159,
+      "abilities": [
+        "Ability5",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type10"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Pokemon110",
+    "description": "This is Pokemon number 110, known for its unique abilities.",
+    "characteristics": {
+      "height": "11 ft",
+      "weight": "220 lbs",
+      "base_experience": 160,
+      "abilities": [
+        "Ability1",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type1"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Pokemon111",
+    "description": "This is Pokemon number 111, known for its unique abilities.",
+    "characteristics": {
+      "height": "12 ft",
+      "weight": "222 lbs",
+      "base_experience": 161,
+      "abilities": [
+        "Ability2",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type2"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Pokemon112",
+    "description": "This is Pokemon number 112, known for its unique abilities.",
+    "characteristics": {
+      "height": "13 ft",
+      "weight": "224 lbs",
+      "base_experience": 162,
+      "abilities": [
+        "Ability3",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type3"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Pokemon113",
+    "description": "This is Pokemon number 113, known for its unique abilities.",
+    "characteristics": {
+      "height": "14 ft",
+      "weight": "226 lbs",
+      "base_experience": 163,
+      "abilities": [
+        "Ability4",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type4"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Pokemon114",
+    "description": "This is Pokemon number 114, known for its unique abilities.",
+    "characteristics": {
+      "height": "15 ft",
+      "weight": "228 lbs",
+      "base_experience": 164,
+      "abilities": [
+        "Ability5",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type5"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Pokemon115",
+    "description": "This is Pokemon number 115, known for its unique abilities.",
+    "characteristics": {
+      "height": "16 ft",
+      "weight": "230 lbs",
+      "base_experience": 165,
+      "abilities": [
+        "Ability1",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type6"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Pokemon116",
+    "description": "This is Pokemon number 116, known for its unique abilities.",
+    "characteristics": {
+      "height": "17 ft",
+      "weight": "232 lbs",
+      "base_experience": 166,
+      "abilities": [
+        "Ability2",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type7"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Pokemon117",
+    "description": "This is Pokemon number 117, known for its unique abilities.",
+    "characteristics": {
+      "height": "18 ft",
+      "weight": "234 lbs",
+      "base_experience": 167,
+      "abilities": [
+        "Ability3",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type8"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Pokemon118",
+    "description": "This is Pokemon number 118, known for its unique abilities.",
+    "characteristics": {
+      "height": "19 ft",
+      "weight": "236 lbs",
+      "base_experience": 168,
+      "abilities": [
+        "Ability4",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type9"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Pokemon119",
+    "description": "This is Pokemon number 119, known for its unique abilities.",
+    "characteristics": {
+      "height": "20 ft",
+      "weight": "238 lbs",
+      "base_experience": 169,
+      "abilities": [
+        "Ability5",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type10"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Pokemon120",
+    "description": "This is Pokemon number 120, known for its unique abilities.",
+    "characteristics": {
+      "height": "1 ft",
+      "weight": "240 lbs",
+      "base_experience": 170,
+      "abilities": [
+        "Ability1",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type1"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Pokemon121",
+    "description": "This is Pokemon number 121, known for its unique abilities.",
+    "characteristics": {
+      "height": "2 ft",
+      "weight": "242 lbs",
+      "base_experience": 171,
+      "abilities": [
+        "Ability2",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type2"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Pokemon122",
+    "description": "This is Pokemon number 122, known for its unique abilities.",
+    "characteristics": {
+      "height": "3 ft",
+      "weight": "244 lbs",
+      "base_experience": 172,
+      "abilities": [
+        "Ability3",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type3"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Pokemon123",
+    "description": "This is Pokemon number 123, known for its unique abilities.",
+    "characteristics": {
+      "height": "4 ft",
+      "weight": "246 lbs",
+      "base_experience": 173,
+      "abilities": [
+        "Ability4",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type4"
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Pokemon124",
+    "description": "This is Pokemon number 124, known for its unique abilities.",
+    "characteristics": {
+      "height": "5 ft",
+      "weight": "248 lbs",
+      "base_experience": 174,
+      "abilities": [
+        "Ability5",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type5"
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Pokemon125",
+    "description": "This is Pokemon number 125, known for its unique abilities.",
+    "characteristics": {
+      "height": "6 ft",
+      "weight": "250 lbs",
+      "base_experience": 175,
+      "abilities": [
+        "Ability1",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type6"
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Pokemon126",
+    "description": "This is Pokemon number 126, known for its unique abilities.",
+    "characteristics": {
+      "height": "7 ft",
+      "weight": "252 lbs",
+      "base_experience": 176,
+      "abilities": [
+        "Ability2",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type7"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Pokemon127",
+    "description": "This is Pokemon number 127, known for its unique abilities.",
+    "characteristics": {
+      "height": "8 ft",
+      "weight": "254 lbs",
+      "base_experience": 177,
+      "abilities": [
+        "Ability3",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type8"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Pokemon128",
+    "description": "This is Pokemon number 128, known for its unique abilities.",
+    "characteristics": {
+      "height": "9 ft",
+      "weight": "256 lbs",
+      "base_experience": 178,
+      "abilities": [
+        "Ability4",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type9"
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Pokemon129",
+    "description": "This is Pokemon number 129, known for its unique abilities.",
+    "characteristics": {
+      "height": "10 ft",
+      "weight": "258 lbs",
+      "base_experience": 179,
+      "abilities": [
+        "Ability5",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type10"
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Pokemon130",
+    "description": "This is Pokemon number 130, known for its unique abilities.",
+    "characteristics": {
+      "height": "11 ft",
+      "weight": "260 lbs",
+      "base_experience": 180,
+      "abilities": [
+        "Ability1",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type1"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Pokemon131",
+    "description": "This is Pokemon number 131, known for its unique abilities.",
+    "characteristics": {
+      "height": "12 ft",
+      "weight": "262 lbs",
+      "base_experience": 181,
+      "abilities": [
+        "Ability2",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type2"
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Pokemon132",
+    "description": "This is Pokemon number 132, known for its unique abilities.",
+    "characteristics": {
+      "height": "13 ft",
+      "weight": "264 lbs",
+      "base_experience": 182,
+      "abilities": [
+        "Ability3",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type3"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Pokemon133",
+    "description": "This is Pokemon number 133, known for its unique abilities.",
+    "characteristics": {
+      "height": "14 ft",
+      "weight": "266 lbs",
+      "base_experience": 183,
+      "abilities": [
+        "Ability4",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type4"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Pokemon134",
+    "description": "This is Pokemon number 134, known for its unique abilities.",
+    "characteristics": {
+      "height": "15 ft",
+      "weight": "268 lbs",
+      "base_experience": 184,
+      "abilities": [
+        "Ability5",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type5"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Pokemon135",
+    "description": "This is Pokemon number 135, known for its unique abilities.",
+    "characteristics": {
+      "height": "16 ft",
+      "weight": "270 lbs",
+      "base_experience": 185,
+      "abilities": [
+        "Ability1",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type6"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Pokemon136",
+    "description": "This is Pokemon number 136, known for its unique abilities.",
+    "characteristics": {
+      "height": "17 ft",
+      "weight": "272 lbs",
+      "base_experience": 186,
+      "abilities": [
+        "Ability2",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type7"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Pokemon137",
+    "description": "This is Pokemon number 137, known for its unique abilities.",
+    "characteristics": {
+      "height": "18 ft",
+      "weight": "274 lbs",
+      "base_experience": 187,
+      "abilities": [
+        "Ability3",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type8"
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Pokemon138",
+    "description": "This is Pokemon number 138, known for its unique abilities.",
+    "characteristics": {
+      "height": "19 ft",
+      "weight": "276 lbs",
+      "base_experience": 188,
+      "abilities": [
+        "Ability4",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type9"
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Pokemon139",
+    "description": "This is Pokemon number 139, known for its unique abilities.",
+    "characteristics": {
+      "height": "20 ft",
+      "weight": "278 lbs",
+      "base_experience": 189,
+      "abilities": [
+        "Ability5",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type10"
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Pokemon140",
+    "description": "This is Pokemon number 140, known for its unique abilities.",
+    "characteristics": {
+      "height": "1 ft",
+      "weight": "280 lbs",
+      "base_experience": 190,
+      "abilities": [
+        "Ability1",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type1"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Pokemon141",
+    "description": "This is Pokemon number 141, known for its unique abilities.",
+    "characteristics": {
+      "height": "2 ft",
+      "weight": "282 lbs",
+      "base_experience": 191,
+      "abilities": [
+        "Ability2",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type2"
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Pokemon142",
+    "description": "This is Pokemon number 142, known for its unique abilities.",
+    "characteristics": {
+      "height": "3 ft",
+      "weight": "284 lbs",
+      "base_experience": 192,
+      "abilities": [
+        "Ability3",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type3"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Pokemon143",
+    "description": "This is Pokemon number 143, known for its unique abilities.",
+    "characteristics": {
+      "height": "4 ft",
+      "weight": "286 lbs",
+      "base_experience": 193,
+      "abilities": [
+        "Ability4",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type4"
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Pokemon144",
+    "description": "This is Pokemon number 144, known for its unique abilities.",
+    "characteristics": {
+      "height": "5 ft",
+      "weight": "288 lbs",
+      "base_experience": 194,
+      "abilities": [
+        "Ability5",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type5"
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Pokemon145",
+    "description": "This is Pokemon number 145, known for its unique abilities.",
+    "characteristics": {
+      "height": "6 ft",
+      "weight": "290 lbs",
+      "base_experience": 195,
+      "abilities": [
+        "Ability1",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type6"
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Pokemon146",
+    "description": "This is Pokemon number 146, known for its unique abilities.",
+    "characteristics": {
+      "height": "7 ft",
+      "weight": "292 lbs",
+      "base_experience": 196,
+      "abilities": [
+        "Ability2",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type7"
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Pokemon147",
+    "description": "This is Pokemon number 147, known for its unique abilities.",
+    "characteristics": {
+      "height": "8 ft",
+      "weight": "294 lbs",
+      "base_experience": 197,
+      "abilities": [
+        "Ability3",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type8"
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Pokemon148",
+    "description": "This is Pokemon number 148, known for its unique abilities.",
+    "characteristics": {
+      "height": "9 ft",
+      "weight": "296 lbs",
+      "base_experience": 198,
+      "abilities": [
+        "Ability4",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type9"
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Pokemon149",
+    "description": "This is Pokemon number 149, known for its unique abilities.",
+    "characteristics": {
+      "height": "10 ft",
+      "weight": "298 lbs",
+      "base_experience": 199,
+      "abilities": [
+        "Ability5",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type10"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Pokemon150",
+    "description": "This is Pokemon number 150, known for its unique abilities.",
+    "characteristics": {
+      "height": "11 ft",
+      "weight": "300 lbs",
+      "base_experience": 200,
+      "abilities": [
+        "Ability1",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type1"
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Pokemon151",
+    "description": "This is Pokemon number 151, known for its unique abilities.",
+    "characteristics": {
+      "height": "12 ft",
+      "weight": "302 lbs",
+      "base_experience": 201,
+      "abilities": [
+        "Ability2",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type2"
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Pokemon152",
+    "description": "This is Pokemon number 152, known for its unique abilities.",
+    "characteristics": {
+      "height": "13 ft",
+      "weight": "304 lbs",
+      "base_experience": 202,
+      "abilities": [
+        "Ability3",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type3"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Pokemon153",
+    "description": "This is Pokemon number 153, known for its unique abilities.",
+    "characteristics": {
+      "height": "14 ft",
+      "weight": "306 lbs",
+      "base_experience": 203,
+      "abilities": [
+        "Ability4",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type4"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Pokemon154",
+    "description": "This is Pokemon number 154, known for its unique abilities.",
+    "characteristics": {
+      "height": "15 ft",
+      "weight": "308 lbs",
+      "base_experience": 204,
+      "abilities": [
+        "Ability5",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type5"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Pokemon155",
+    "description": "This is Pokemon number 155, known for its unique abilities.",
+    "characteristics": {
+      "height": "16 ft",
+      "weight": "310 lbs",
+      "base_experience": 205,
+      "abilities": [
+        "Ability1",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type6"
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Pokemon156",
+    "description": "This is Pokemon number 156, known for its unique abilities.",
+    "characteristics": {
+      "height": "17 ft",
+      "weight": "312 lbs",
+      "base_experience": 206,
+      "abilities": [
+        "Ability2",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type7"
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Pokemon157",
+    "description": "This is Pokemon number 157, known for its unique abilities.",
+    "characteristics": {
+      "height": "18 ft",
+      "weight": "314 lbs",
+      "base_experience": 207,
+      "abilities": [
+        "Ability3",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type8"
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Pokemon158",
+    "description": "This is Pokemon number 158, known for its unique abilities.",
+    "characteristics": {
+      "height": "19 ft",
+      "weight": "316 lbs",
+      "base_experience": 208,
+      "abilities": [
+        "Ability4",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type9"
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Pokemon159",
+    "description": "This is Pokemon number 159, known for its unique abilities.",
+    "characteristics": {
+      "height": "20 ft",
+      "weight": "318 lbs",
+      "base_experience": 209,
+      "abilities": [
+        "Ability5",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type10"
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Pokemon160",
+    "description": "This is Pokemon number 160, known for its unique abilities.",
+    "characteristics": {
+      "height": "1 ft",
+      "weight": "320 lbs",
+      "base_experience": 210,
+      "abilities": [
+        "Ability1",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type1"
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Pokemon161",
+    "description": "This is Pokemon number 161, known for its unique abilities.",
+    "characteristics": {
+      "height": "2 ft",
+      "weight": "322 lbs",
+      "base_experience": 211,
+      "abilities": [
+        "Ability2",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type2"
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Pokemon162",
+    "description": "This is Pokemon number 162, known for its unique abilities.",
+    "characteristics": {
+      "height": "3 ft",
+      "weight": "324 lbs",
+      "base_experience": 212,
+      "abilities": [
+        "Ability3",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type3"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Pokemon163",
+    "description": "This is Pokemon number 163, known for its unique abilities.",
+    "characteristics": {
+      "height": "4 ft",
+      "weight": "326 lbs",
+      "base_experience": 213,
+      "abilities": [
+        "Ability4",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type4"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Pokemon164",
+    "description": "This is Pokemon number 164, known for its unique abilities.",
+    "characteristics": {
+      "height": "5 ft",
+      "weight": "328 lbs",
+      "base_experience": 214,
+      "abilities": [
+        "Ability5",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type5"
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Pokemon165",
+    "description": "This is Pokemon number 165, known for its unique abilities.",
+    "characteristics": {
+      "height": "6 ft",
+      "weight": "330 lbs",
+      "base_experience": 215,
+      "abilities": [
+        "Ability1",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type6"
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Pokemon166",
+    "description": "This is Pokemon number 166, known for its unique abilities.",
+    "characteristics": {
+      "height": "7 ft",
+      "weight": "332 lbs",
+      "base_experience": 216,
+      "abilities": [
+        "Ability2",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type7"
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Pokemon167",
+    "description": "This is Pokemon number 167, known for its unique abilities.",
+    "characteristics": {
+      "height": "8 ft",
+      "weight": "334 lbs",
+      "base_experience": 217,
+      "abilities": [
+        "Ability3",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type8"
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Pokemon168",
+    "description": "This is Pokemon number 168, known for its unique abilities.",
+    "characteristics": {
+      "height": "9 ft",
+      "weight": "336 lbs",
+      "base_experience": 218,
+      "abilities": [
+        "Ability4",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type9"
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Pokemon169",
+    "description": "This is Pokemon number 169, known for its unique abilities.",
+    "characteristics": {
+      "height": "10 ft",
+      "weight": "338 lbs",
+      "base_experience": 219,
+      "abilities": [
+        "Ability5",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type10"
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Pokemon170",
+    "description": "This is Pokemon number 170, known for its unique abilities.",
+    "characteristics": {
+      "height": "11 ft",
+      "weight": "340 lbs",
+      "base_experience": 220,
+      "abilities": [
+        "Ability1",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type1"
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Pokemon171",
+    "description": "This is Pokemon number 171, known for its unique abilities.",
+    "characteristics": {
+      "height": "12 ft",
+      "weight": "342 lbs",
+      "base_experience": 221,
+      "abilities": [
+        "Ability2",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type2"
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Pokemon172",
+    "description": "This is Pokemon number 172, known for its unique abilities.",
+    "characteristics": {
+      "height": "13 ft",
+      "weight": "344 lbs",
+      "base_experience": 222,
+      "abilities": [
+        "Ability3",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type3"
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Pokemon173",
+    "description": "This is Pokemon number 173, known for its unique abilities.",
+    "characteristics": {
+      "height": "14 ft",
+      "weight": "346 lbs",
+      "base_experience": 223,
+      "abilities": [
+        "Ability4",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type4"
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Pokemon174",
+    "description": "This is Pokemon number 174, known for its unique abilities.",
+    "characteristics": {
+      "height": "15 ft",
+      "weight": "348 lbs",
+      "base_experience": 224,
+      "abilities": [
+        "Ability5",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type5"
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Pokemon175",
+    "description": "This is Pokemon number 175, known for its unique abilities.",
+    "characteristics": {
+      "height": "16 ft",
+      "weight": "350 lbs",
+      "base_experience": 225,
+      "abilities": [
+        "Ability1",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type6"
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Pokemon176",
+    "description": "This is Pokemon number 176, known for its unique abilities.",
+    "characteristics": {
+      "height": "17 ft",
+      "weight": "352 lbs",
+      "base_experience": 226,
+      "abilities": [
+        "Ability2",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type7"
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Pokemon177",
+    "description": "This is Pokemon number 177, known for its unique abilities.",
+    "characteristics": {
+      "height": "18 ft",
+      "weight": "354 lbs",
+      "base_experience": 227,
+      "abilities": [
+        "Ability3",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type8"
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Pokemon178",
+    "description": "This is Pokemon number 178, known for its unique abilities.",
+    "characteristics": {
+      "height": "19 ft",
+      "weight": "356 lbs",
+      "base_experience": 228,
+      "abilities": [
+        "Ability4",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type9"
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Pokemon179",
+    "description": "This is Pokemon number 179, known for its unique abilities.",
+    "characteristics": {
+      "height": "20 ft",
+      "weight": "358 lbs",
+      "base_experience": 229,
+      "abilities": [
+        "Ability5",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type10"
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Pokemon180",
+    "description": "This is Pokemon number 180, known for its unique abilities.",
+    "characteristics": {
+      "height": "1 ft",
+      "weight": "360 lbs",
+      "base_experience": 230,
+      "abilities": [
+        "Ability1",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type1"
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Pokemon181",
+    "description": "This is Pokemon number 181, known for its unique abilities.",
+    "characteristics": {
+      "height": "2 ft",
+      "weight": "362 lbs",
+      "base_experience": 231,
+      "abilities": [
+        "Ability2",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type2"
+    ]
+  },
+  {
+    "id": 182,
+    "name": "Pokemon182",
+    "description": "This is Pokemon number 182, known for its unique abilities.",
+    "characteristics": {
+      "height": "3 ft",
+      "weight": "364 lbs",
+      "base_experience": 232,
+      "abilities": [
+        "Ability3",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type3"
+    ]
+  },
+  {
+    "id": 183,
+    "name": "Pokemon183",
+    "description": "This is Pokemon number 183, known for its unique abilities.",
+    "characteristics": {
+      "height": "4 ft",
+      "weight": "366 lbs",
+      "base_experience": 233,
+      "abilities": [
+        "Ability4",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type4"
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Pokemon184",
+    "description": "This is Pokemon number 184, known for its unique abilities.",
+    "characteristics": {
+      "height": "5 ft",
+      "weight": "368 lbs",
+      "base_experience": 234,
+      "abilities": [
+        "Ability5",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type5"
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Pokemon185",
+    "description": "This is Pokemon number 185, known for its unique abilities.",
+    "characteristics": {
+      "height": "6 ft",
+      "weight": "370 lbs",
+      "base_experience": 235,
+      "abilities": [
+        "Ability1",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type6"
+    ]
+  },
+  {
+    "id": 186,
+    "name": "Pokemon186",
+    "description": "This is Pokemon number 186, known for its unique abilities.",
+    "characteristics": {
+      "height": "7 ft",
+      "weight": "372 lbs",
+      "base_experience": 236,
+      "abilities": [
+        "Ability2",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type7"
+    ]
+  },
+  {
+    "id": 187,
+    "name": "Pokemon187",
+    "description": "This is Pokemon number 187, known for its unique abilities.",
+    "characteristics": {
+      "height": "8 ft",
+      "weight": "374 lbs",
+      "base_experience": 237,
+      "abilities": [
+        "Ability3",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type8"
+    ]
+  },
+  {
+    "id": 188,
+    "name": "Pokemon188",
+    "description": "This is Pokemon number 188, known for its unique abilities.",
+    "characteristics": {
+      "height": "9 ft",
+      "weight": "376 lbs",
+      "base_experience": 238,
+      "abilities": [
+        "Ability4",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type9"
+    ]
+  },
+  {
+    "id": 189,
+    "name": "Pokemon189",
+    "description": "This is Pokemon number 189, known for its unique abilities.",
+    "characteristics": {
+      "height": "10 ft",
+      "weight": "378 lbs",
+      "base_experience": 239,
+      "abilities": [
+        "Ability5",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type10"
+    ]
+  },
+  {
+    "id": 190,
+    "name": "Pokemon190",
+    "description": "This is Pokemon number 190, known for its unique abilities.",
+    "characteristics": {
+      "height": "11 ft",
+      "weight": "380 lbs",
+      "base_experience": 240,
+      "abilities": [
+        "Ability1",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type1"
+    ]
+  },
+  {
+    "id": 191,
+    "name": "Pokemon191",
+    "description": "This is Pokemon number 191, known for its unique abilities.",
+    "characteristics": {
+      "height": "12 ft",
+      "weight": "382 lbs",
+      "base_experience": 241,
+      "abilities": [
+        "Ability2",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type2"
+    ]
+  },
+  {
+    "id": 192,
+    "name": "Pokemon192",
+    "description": "This is Pokemon number 192, known for its unique abilities.",
+    "characteristics": {
+      "height": "13 ft",
+      "weight": "384 lbs",
+      "base_experience": 242,
+      "abilities": [
+        "Ability3",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type3"
+    ]
+  },
+  {
+    "id": 193,
+    "name": "Pokemon193",
+    "description": "This is Pokemon number 193, known for its unique abilities.",
+    "characteristics": {
+      "height": "14 ft",
+      "weight": "386 lbs",
+      "base_experience": 243,
+      "abilities": [
+        "Ability4",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type4"
+    ]
+  },
+  {
+    "id": 194,
+    "name": "Pokemon194",
+    "description": "This is Pokemon number 194, known for its unique abilities.",
+    "characteristics": {
+      "height": "15 ft",
+      "weight": "388 lbs",
+      "base_experience": 244,
+      "abilities": [
+        "Ability5",
+        "Ability6"
+      ]
+    },
+    "type": [
+      "Type5"
+    ]
+  },
+  {
+    "id": 195,
+    "name": "Pokemon195",
+    "description": "This is Pokemon number 195, known for its unique abilities.",
+    "characteristics": {
+      "height": "16 ft",
+      "weight": "390 lbs",
+      "base_experience": 245,
+      "abilities": [
+        "Ability1",
+        "Ability7"
+      ]
+    },
+    "type": [
+      "Type6"
+    ]
+  },
+  {
+    "id": 196,
+    "name": "Pokemon196",
+    "description": "This is Pokemon number 196, known for its unique abilities.",
+    "characteristics": {
+      "height": "17 ft",
+      "weight": "392 lbs",
+      "base_experience": 246,
+      "abilities": [
+        "Ability2",
+        "Ability1"
+      ]
+    },
+    "type": [
+      "Type7"
+    ]
+  },
+  {
+    "id": 197,
+    "name": "Pokemon197",
+    "description": "This is Pokemon number 197, known for its unique abilities.",
+    "characteristics": {
+      "height": "18 ft",
+      "weight": "394 lbs",
+      "base_experience": 247,
+      "abilities": [
+        "Ability3",
+        "Ability2"
+      ]
+    },
+    "type": [
+      "Type8"
+    ]
+  },
+  {
+    "id": 198,
+    "name": "Pokemon198",
+    "description": "This is Pokemon number 198, known for its unique abilities.",
+    "characteristics": {
+      "height": "19 ft",
+      "weight": "396 lbs",
+      "base_experience": 248,
+      "abilities": [
+        "Ability4",
+        "Ability3"
+      ]
+    },
+    "type": [
+      "Type9"
+    ]
+  },
+  {
+    "id": 199,
+    "name": "Pokemon199",
+    "description": "This is Pokemon number 199, known for its unique abilities.",
+    "characteristics": {
+      "height": "20 ft",
+      "weight": "398 lbs",
+      "base_experience": 249,
+      "abilities": [
+        "Ability5",
+        "Ability4"
+      ]
+    },
+    "type": [
+      "Type10"
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Pokemon200",
+    "description": "This is Pokemon number 200, known for its unique abilities.",
+    "characteristics": {
+      "height": "1 ft",
+      "weight": "400 lbs",
+      "base_experience": 250,
+      "abilities": [
+        "Ability1",
+        "Ability5"
+      ]
+    },
+    "type": [
+      "Type1"
+    ]
+  },
+  {
+    "id": 201,
+    "description": "Electric Pokemon",
+    "name": "Pikachu",
+    "characteristics": {
+      "base_experience": 112,
+      "weight": "6kg",
+      "abilities": [
+        "Static",
+        "Lightning Rod"
+      ],
+      "height": "0.4m"
+    },
+    "type": [
+      "Electric"
+    ]
+  }
+]

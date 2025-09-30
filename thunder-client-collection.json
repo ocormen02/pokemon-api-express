@@ -1,0 +1,63 @@
+{
+  "clientName": "Thunder Client",
+  "collectionName": "Pokemon API",
+  "collectionId": "pokemon-api-collection",
+  "dateExported": "2025-09-30",
+  "version": "1.0",
+  "folders": [],
+  "requests": [
+    {
+      "name": "Get All Pokemon",
+      "method": "GET",
+      "url": "http://localhost:3000/api/pokemon",
+      "headers": [],
+      "tests": []
+    },
+    {
+      "name": "Get Pokemon by ID",
+      "method": "GET",
+      "url": "http://localhost:3000/api/pokemon/1",
+      "headers": [],
+      "tests": []
+    },
+    {
+      "name": "Create New Pokemon",
+      "method": "POST",
+      "url": "http://localhost:3000/api/pokemon",
+      "headers": [
+        {
+          "name": "Content-Type",
+          "value": "application/json"
+        }
+      ],
+      "body": {
+        "type": "json",
+        "raw": "{\n  \"name\": \"Pikachu\",\n  \"description\": \"An electric type Pokemon that stores electricity in its cheeks.\",\n  \"characteristics\": {\n    \"height\": \"0.4 m\",\n    \"weight\": \"6 kg\",\n    \"base_experience\": 112,\n    \"abilities\": [\"Static\", \"Lightning Rod\"]\n  },\n  \"type\": [\"Electric\"]\n}"
+      },
+      "tests": []
+    },
+    {
+      "name": "Update Pokemon",
+      "method": "PUT",
+      "url": "http://localhost:3000/api/pokemon/1",
+      "headers": [
+        {
+          "name": "Content-Type",
+          "value": "application/json"
+        }
+      ],
+      "body": {
+        "type": "json",
+        "raw": "{\n  \"name\": \"Pokemon1 Updated\",\n  \"description\": \"Updated description for Pokemon 1\",\n  \"characteristics\": {\n    \"height\": \"3 ft\",\n    \"weight\": \"5 lbs\",\n    \"base_experience\": 60,\n    \"abilities\": [\"New Ability\", \"Another Ability\"]\n  },\n  \"type\": [\"Type2\", \"Type3\"]\n}"
+      },
+      "tests": []
+    },
+    {
+      "name": "Delete Pokemon",
+      "method": "DELETE",
+      "url": "http://localhost:3000/api/pokemon/201",
+      "headers": [],
+      "tests": []
+    }
+  ]
+}
